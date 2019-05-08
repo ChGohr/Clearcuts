@@ -1,4 +1,4 @@
-# Clearcuts
+# Description
 This code is part of my master thesis 'Examining forest productivity under the impact of adjacent clearcuts  using large-scale remote sensing time series data'. 
 It presents a workflow to extract series of forest NDVI adjacent to clearcuts and climate data from 2000 to 2018 using Google Earth Engine and R for further statistical analysis.
 
